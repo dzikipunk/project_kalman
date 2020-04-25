@@ -1,0 +1,7 @@
+﻿  Kalman_Filter.cpp
+C:\Users\Nick\source\repos\Kalman_Filter\Kalman_Filter\Kalman_Filter.cpp(72,26): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+C:\Users\Nick\source\repos\Kalman_Filter\Kalman_Filter\Kalman_Filter.cpp(42,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nick\source\repos\Kalman_Filter\Kalman_Filter\Kalman_Filter.cpp(91,37): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Nick\source\repos\Kalman_Filter\Kalman_Filter\Kalman_Filter.cpp(134,26): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+C:\Users\Nick\source\repos\Kalman_Filter\Kalman_Filter\Kalman_Filter.cpp(143,24): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Kalman_Filter.vcxproj -> C:\Users\Nick\source\repos\Kalman_Filter\Debug\Kalman_Filter.exe
